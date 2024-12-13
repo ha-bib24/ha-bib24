@@ -14,7 +14,7 @@ Skills:  HTML / CSS / JS / JAVA/ Python / OpenCV / MySQL / Flask / Django / AI /
 - 👯 I’m looking to collaborate on Open-source projects related to AI and machine learning, particularly those focused on computer vision and real-time data processing. 
 - 🤔 I’m looking for help with  Integrating different APIs for data processing and visualization in my projects, as well as optimizing code for better performance. 
 - 💬 Ask me about Python programming, web development with Django and Flask, and best practices in version control using Git and GitHub. 
-- 📫 How to reach me: Feel free to reach out via linkedin.com/in/ha-bib--24y or Email me at [habiburrahman10224@gmail.com]. 
+- 📫 How to reach me: Feel free to reach out via Email me at [habiburrahman10224@gmail.com]. 
 - 😄 Pronouns: He/Him (or customize as per your preference). 
 - ⚡ Fun fact:  I love exploring new technologies and have a collection of over 100 different programming books! 
 
