@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Habib 
 #### "BSc in CSE (Ongoing) || Aspiring Full Stack Web Developer || Exploring AI & Machine Learning || Passionate About Building Innovative Digital Solutions"
-!["BSc in CSE (Ongoing) || Aspiring Full Stack Web Developer || Exploring AI & Machine Learning || Passionate About Building Innovative Digital Solutions"](https://media.licdn.com/dms/image/v2/D4E16AQEJ2vGkklQ2jA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732359637189?e=1738800000&v=beta&t=dq9i-3cz0gDxKlmfctD52Wg2-7Fi5QpJqlK5F2pgOK4)
+!["BSc in CSE (Ongoing) || Aspiring Full Stack Web Developer || Exploring AI & Machine Learning || Passionate About Building Innovative Digital Solutions"][(https://media.licdn.com/dms/image/v2/D4E16AQEJ2vGkklQ2jA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732359637189?e=1738800000&v=beta&t=dq9i-3cz0gDxKlmfctD52Wg2-7Fi5QpJqlK5F2pgOK4)](https://www.linkedin.com/in/ha-bib--24y/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3B7nGx4KRXTAqiy5VMZq%2BTrA%3D%3D)
 
 Hello everyone, 
 My name is Habib and I am a Computer Science and Engineering (CSE) undergraduate with a strong passion for technology and innovation. Currently honing my skills in Full Stack Web Development, I strive to build impactful, user-centric digital solutions.
