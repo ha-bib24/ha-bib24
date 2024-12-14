@@ -2,6 +2,7 @@
 #### "BSc in CSE (Ongoing) || Aspiring Full Stack Web Developer || Exploring AI & Machine Learning || Passionate About Building Innovative Digital Solutions".
 !["BSc in CSE (Ongoing) || Aspiring Full Stack Web Developer || Exploring AI & Machine Learning || Passionate About Building Innovative Digital Solutions".](https://media.licdn.com/dms/image/v2/D4E16AQHDOe0_t_buBQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734202847538?e=1739404800&v=beta&t=7YYY72ESwiVz5Jh02KsWLvTe98xJLEqq07ewkk-0GxU)
 
+
 Hello everyone, 
 My name is Habib and I am a Computer Science and Engineering (CSE) undergraduate with a strong passion for technology and innovation. Currently honing my skills in Full Stack Web Development, I strive to build impactful, user-centric digital solutions.
 
