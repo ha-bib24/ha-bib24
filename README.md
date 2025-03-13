@@ -131,9 +131,7 @@ If you appreciate my work, consider supporting:
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
 ## 🎉 Fun GIF  
-<p align="center">
-  https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVsajc3aWdvdHZpOTdoZXc3Z2xybGc4M3gwOWJzbmI2OXBoNmwwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/VWKZo6eOpI9C58M2k1/giphy.gif
-</p>
+<img src="https://media0.giphy.com/media/VWKZo6eOpI9C58M2k1/giphy.gif" width="300" height="auto">
 
 
 
