@@ -121,29 +121,21 @@ If you appreciate my work, consider supporting:
 
 🐍 Contribution Activity
 
-<p align="center">
-  <img src="[https://raw.githubusercontent.com/ha-bib24/ha-bib24/output/github-contribution-grid-snake.svg" alt="Contribution Snake](https://raw.githubusercontent.com/ha-bib24/ha-bib24/output/github-contribution-grid-snake-dark.svg)">
-</p>
+https://github.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=ha-bib24&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Jokes Card
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark width="500")
 
 ## 🎉 Fun GIF  
 <p align="center">
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200">
 </p>
 
-<-- black -->
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ha-bib24&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-bib24&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ha-bib24&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
