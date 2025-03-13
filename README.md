@@ -6,6 +6,7 @@
 
 <!-- [![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) --> 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ha_bib_/)
+[![Threads](https://img.shields.io/badge/Threads-2D2F4E?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@ha_bib_)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/224HaBiB/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Habib1191210)
 [![Medium](https://img.shields.io/badge/Medium_Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@habiburrahman10224)
