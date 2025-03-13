@@ -1,4 +1,10 @@
 <!-- Header Section -->
+header {
+    background-image: url("https://raw.githubusercontent.com/your-github-username/ha-bib24/main/header.jpg");
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+}
 <div style="background-color: #000000; color: white; padding: 20px; border-radius: 10px;">
 
 # 👋 Hello! I'm **MD.Habibur Rahman**
