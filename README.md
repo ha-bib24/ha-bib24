@@ -1,5 +1,5 @@
 <!-- Header Section -->
-(https://github.com/ha-bib24/cover/blob/main/Screenshot%202025-03-13%20230345.png)
+Screenshot 2025-03-13 230345.png
 <div style="background-color: #000000; color: white; padding: 20px; border-radius: 10px;">
 
 # 👋 Hello! I'm **MD.Habibur Rahman**
