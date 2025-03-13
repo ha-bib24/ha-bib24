@@ -1,6 +1,6 @@
 <!-- Header Section -->
 
-# 👋 Hello! I'm MD.Habibur Rahman
+# 👋 Hello! I'm **MD.Habibur Rahman**
 
 <!-- [![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) --> 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ha_bib_/)
@@ -91,8 +91,6 @@ If you appreciate my work, consider supporting:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-bib24&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!-- Contribution Snake -->
-## 🐍 Coding Activity
-![Contribution Snake](https://raw.githubusercontent.com/ha-bib24/ha-bib24/output/github-contribution-grid-snake.svg)  
 
 <!-- Projects -->
 ## 🚀 Projects
@@ -110,7 +108,7 @@ If you appreciate my work, consider supporting:
 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ha-bib24/ha-bib24/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+  <img src="[https://raw.githubusercontent.com/ha-bib24/ha-bib24/output/github-contribution-grid-snake.svg" alt="Contribution Snake](https://raw.githubusercontent.com/ha-bib24/ha-bib24/output/github-contribution-grid-snake-dark.svg)">
 </p>
 
 
@@ -120,5 +118,19 @@ If you appreciate my work, consider supporting:
 ## Jokes Card
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
-## Gif
-![Alt Text](https://media.giphy.com/media/your-gif-link.gif)
+## 🎉 Fun GIF  
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200">
+</p>
+
+<-- black -->
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ha-bib24&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-bib24&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ha-bib24&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
