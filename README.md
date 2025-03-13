@@ -1,4 +1,5 @@
 <!-- Header Section -->
+<div style="background-color: #000000; color: white; padding: 20px; border-radius: 10px;">
 
 # 👋 Hello! I'm **MD.Habibur Rahman**
 
@@ -10,6 +11,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ha-bib--24y)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ha-bib24)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Habib-i9n8u)
+</div>
+
+<!-- About Me with Black Background -->
+<div style="background-color: #000000; color: white; padding: 20px; border-radius: 10px; margin-top: 20px;">
 
 <!-- About Me -->
 ## 🧑💻 Who Am I?
@@ -18,6 +23,9 @@
 
 
 ## *Freelance Work?* Do reach out 📬 → [mail](mailto:habiburrahman10224@gmail.com)
+</div>
+<!-- GitHub Stats with Black Background -->
+<div style="background-color: #000000; color: white; padding: 20px; border-radius: 10px; margin-top: 20px;">
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
@@ -56,6 +64,11 @@ If you appreciate my work, consider supporting:
   <img src="https://github-readme-stats.vercel.app/api?username=ha-bib24&show_icons=true&theme=gotham" alt="GitHub Stats">
 </p>
 
+</div>
+
+<!-- Tech Stack with Black Background -->
+<div style="background-color: #000000; color: white; padding: 20px; border-radius: 10px; margin-top: 20px;">
+
 
 <!-- Tech Stack -->
 ## 🛠 Tech Stack
@@ -66,6 +79,7 @@ If you appreciate my work, consider supporting:
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 [![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)]()
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
+</div>
 
 ### Programming Languages:
 [![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)]()
