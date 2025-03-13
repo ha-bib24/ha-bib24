@@ -1,5 +1,5 @@
 <!-- Header Section -->
- 
+ ![Repository Cover](https://raw.githubusercontent.com/your-github-username/[your-repo-name](https://github.com/ha-bib24/cover)/main/banner.png)
 <div style="background-color: #000000; color: white; padding: 20px; border-radius: 10px;">
 
 # 👋 Hello! I'm **MD.Habibur Rahman**
