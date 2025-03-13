@@ -1,5 +1,5 @@
 <!-- Header Section -->
-![Cover Image](https://raw.githubusercontent.com/your-github-username/ha-bib224/cover/main/cover-image.jpg)
+![Cover Photo](https://github.com/ha-bib224/cover/blob/main/path/to/cover-image.jpg)
 <div style="background-color: #000000; color: white; padding: 20px; border-radius: 10px;">
 
 # 👋 Hello! I'm **MD.Habibur Rahman**
