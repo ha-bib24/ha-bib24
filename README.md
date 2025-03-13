@@ -122,7 +122,6 @@ If you appreciate my work, consider supporting:
 🐍 Contribution Activity
 
 ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)`
-- Preview: ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 
 ## Trophy
