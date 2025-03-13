@@ -128,7 +128,7 @@ If you appreciate my work, consider supporting:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ha-bib24&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Jokes Card
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark width="500")
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
 ## 🎉 Fun GIF  
 <p align="center">
